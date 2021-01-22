@@ -12,7 +12,7 @@ module.exports = {
     },
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sitemap",
+    // "gatsby-plugin-sitemap",
     "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-manifest",
