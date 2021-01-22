@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{Dtc0:function(e,n,t){"use strict";t.r(n);var o=t("q1tI"),a={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"};n.default=function(){return o.createElement("main",{style:a},o.createElement("h1",null,"VaccineVA"),o.createElement("p",null,"Coming soon!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-jsx-10142355ef0e97c5de08.js.map
